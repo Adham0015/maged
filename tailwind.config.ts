@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lama: "#F1E1B0",
+        head: "#0E7670",
       },
     },
   },
